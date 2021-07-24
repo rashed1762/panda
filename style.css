@@ -20,4 +20,30 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.catagories{
+    margin-top: 90px;
+}
+.cat1{
+    background-color: orange;
+    padding: 9.4px 30px;
+    border-radius: 10px;
+}
+
+.cat2{
+    background-color: orchid;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
 
